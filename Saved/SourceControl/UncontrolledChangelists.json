@@ -8,6 +8,16 @@
 				"/Users/barreto/RTS_Game/Content/TopDown/Lvl_TopDown.umap",
 				"/Users/barreto/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/YY/DCNP76EKY2NIEQOU3GCI21.uasset",
 				"/Users/barreto/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/AP/5CHS9GNP9NIDWEQDFIG4NJ.uasset",
+				"/Users/barreto/RTS_Game/Content/Blueprints/BP_CameraPawn.uasset",
+				"/Users/barreto/RTS_Game/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"/Users/barreto/RTS_Game/Content/TopDown/Input/Actions/IA_Zoom.uasset",
+				"/Users/barreto/RTS_Game/Content/TopDown/Input/IMC_Camera.uasset",
+				"/Users/barreto/RTS_Game/Content/TopDown/Input/IMC_Default.uasset",
+				"/Users/barreto/RTS_Game/Content/Blueprints/BP_RTSPlayerController.uasset",
+				"/Users/barreto/RTS_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"/Users/barreto/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/DA/6LIO0O2Q4K6MU7Y0FTORSI.uasset",
+				"/Users/barreto/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/QT/DYQ8DLFP8V6BEYVUSF69VL.uasset",
+				"/Users/barreto/RTS_Game/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/Blueprints/Ball.uasset",
 				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/AV/BRHT3PU09GEKJBDNYHQUGY.uasset"
 			]
