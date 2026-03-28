@@ -5,11 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/barreto/RTS_Game/Content/TopDown/Lvl_TopDown.umap",
-				"/Users/barreto/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/YY/DCNP76EKY2NIEQOU3GCI21.uasset",
-				"/Users/barreto/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/AP/5CHS9GNP9NIDWEQDFIG4NJ.uasset",
 				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/Blueprints/Ball.uasset",
-				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/AV/BRHT3PU09GEKJBDNYHQUGY.uasset"
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/AV/BRHT3PU09GEKJBDNYHQUGY.uasset",
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/5G/XHJZ45E8UEVHB4SEK8FE90.uasset",
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/YY/DCNP76EKY2NIEQOU3GCI21.uasset",
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/TopDown/Lvl_TopDown.umap",
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/Blueprints/BP_Score.uasset",
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/__ExternalActors__/TopDown/Lvl_TopDown/F/2O/1R9TFT2E7CWXMHEGXMNMIG.uasset",
+				"/Users/parry/Documents/Unreal Projects/RTS_Game/Content/Blueprints/BPW_HUD.uasset"
 			]
 		}
 	]
