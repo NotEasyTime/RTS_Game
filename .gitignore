@@ -1,6 +1,7 @@
 	# Visual Studio 2015 user specific files
 .vs/
 .DS_Store 
+Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
 # Compiled Object files
 *.slo
 *.lo
